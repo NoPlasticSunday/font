@@ -1,3 +1,7 @@
+$git tag
+v1.0
+
+
 # font
 
 Spoqa Han Sans를 웹폰트로 사용하시려면 2가지 방법이 있습니다.
