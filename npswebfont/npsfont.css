@@ -2,7 +2,7 @@
 
 
 @font-face {
-    font-family: 'NPS';
+    font-family: 'NPSm';
     font-weight: 0;
     font-display: swap;
     src: local('NPSmedium'),
@@ -13,7 +13,7 @@
 
 
 @font-face {
-    font-family: 'NPS';
+    font-family: 'NPSb';
     font-weight: 100;
     font-display: swap;
     src: local('NPSbold'),
